@@ -1,0 +1,15 @@
+{
+  "name": "youtubedl-video-to-audio",
+  "version": "1.0.0",
+  "description": "Youtube video to mp3 audio convert using youtube-dl cli using node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "rjoydip",
+  "license": "ISC",
+  "dependencies": {
+    "youtubei.js": "^1.4.0-d"
+  }
+}
